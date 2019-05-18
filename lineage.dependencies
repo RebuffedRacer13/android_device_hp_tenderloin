@@ -20,7 +20,7 @@
     
  },
  {
-    "u-cafaudio-cafository"ditoryitory": "android_hardware_qc-com_audio-caf",
+    "repository": "android_hardware_qc-com_audio-caf",
     "target_path": "hardware/qcom/audio-caf/msm8960",
     
  },
