@@ -5,22 +5,22 @@
    
  },
  {
-    "repository": "android_kernel_htc_msm8960",
+    "repository": "DirtyUnicorns/android_kernel_htc_msm8960",
     "target_path": "kernel/htc/msm8960",
     
  },
  {
-    "repository": "android_hardware_atheros",
+    "repository": "DirtyUnicorns/android_hardware_atheros",
     "target_path": "hardware/atheros",
-    "dep_type": "hardware"
+    
  },
  {
-    "repository": "android_external_stlport",
+    "repository": "LineageOS/android_external_stlport",
     "target_path": "external/stlport",
     
  },
  {
-    "repository": "android_hardware_qcom_audio-caf",
+    "u-cafaudio-cafository"ditoryitory": "android_hardware_qc-com_audio-caf",
     "target_path": "hardware/qcom/audio-caf/msm8960",
     
  },
