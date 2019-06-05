@@ -13,25 +13,5 @@
     "repository": "DirtyUnicorns/android_hardware_atheros",
     "target_path": "hardware/atheros",
     
- },
- {
-    "repository": "LineageOS/android_external_stlport",
-    "target_path": "external/stlport",
-    
- },
- {
-    "repository": "Evervolv/android_hardware_qcom_audio-caf",
-    "target_path": "hardware/qcom/audio-caf/msm8960",
-    
- },
- {
-    "repository": "Evervolv/android_hardware_qcom_display-caf",
-    "target_path": "hardware/qcom/display-caf/msm8960",
-    
- },
- {
-    "repository": "Evervolv/android_hardware_qcom_media-caf",
-    "target_path": "hardware/qcom/media-caf/msm8960",
-   
  }
 ]
